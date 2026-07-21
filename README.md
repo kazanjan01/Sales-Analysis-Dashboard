@@ -10,9 +10,7 @@ The dashboard helps identify trends in revenue, profit, customer ratings, shippi
 
 ## Dashboard Preview
 
-### Dashboard
-
-![Dashboard](Bi Dashboard.png)
+![Sales Dashboard](./Bi%20Dashboard.png)
 
 ---
 
